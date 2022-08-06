@@ -1,0 +1,38 @@
+section{
+    display: flex;
+}
+h1{
+    font-size: 70px;
+}
+.first-part{
+    width: 50%;
+    padding: 20px;
+    margin-left: 30px;
+}
+.first-part img{
+    width: 500px;
+}
+.order-food{
+    text-decoration: none;
+    color: blue;
+    background-image: linear-gradient(orange, tomato  );
+    border-radius: 20px;
+    border: 2px;
+    padding: 10px 40px;
+    font-weight: 700;
+}
+.first-backround{
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+
+}
+.skip-color{
+    color: orangered;
+}
+.secand-part{
+    width: 50%;
+
+}
+.secand-part img{
+    width: 300px;
+}
