@@ -1,6 +1,9 @@
 section{
     display: flex;
 }
+p{
+    font-size: 25px;
+}
 h1{
     font-size: 70px;
 }
@@ -8,6 +11,7 @@ h1{
     width: 50%;
     padding: 20px;
     margin-left: 30px;
+    margin-bottom: 60px;
 }
 .first-part img{
     width: 500px;
@@ -21,10 +25,16 @@ h1{
     padding: 10px 40px;
     font-weight: 700;
 }
-.first-backround{
+.first-background{
     background-image: url(image/Frame\ 57.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
 
+}
+.secend-backround{
+    background-image: url(image/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 .skip-color{
     color: orangered;
@@ -34,5 +44,32 @@ h1{
 
 }
 .secand-part img{
-    width: 300px;
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.contact-me{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border: 2px;
+    padding: 10px 40px;
+    border-radius: 20px;
+
+}
+.thred-part{
+    text-align: center;
+
+}
+.forth-part{
+    width: 50%;
+    border: 5px;
+    border-radius: 40px;
+        padding: 5px;
+        margin-left: 5%;
+        margin-right: 5%;
+        box-shadow: 10px 10px 40px gray;
+}
+.forth-part img{
+    width:600px;
+    
 }
