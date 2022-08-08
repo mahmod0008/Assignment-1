@@ -58,18 +58,57 @@ h1{
 }
 .thred-part{
     text-align: center;
+    margin-top: 50px;
 
 }
 .forth-part{
     width: 50%;
     border: 5px;
     border-radius: 40px;
-        padding: 5px;
-        margin-left: 5%;
-        margin-right: 5%;
-        box-shadow: 10px 10px 40px gray;
+    padding: 15px;
+    margin-left:40px;
+    margin-right:40px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 30px gray;
+    margin-bottom: 70px;
 }
 .forth-part img{
-    width:600px;
+    width:550px;
     
+}
+.font-forth-part{
+    margin-left: 50px;
+}
+.fifth-box{
+    box-shadow: 10px 10px 30px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 40px;
+    margin-bottom: 40px;
+    padding: 5px;
+}
+.fifth-part{
+    width: 30%;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.six-part{
+    text-align: center;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 90px;
+}
+.six-part-font{
+    color: orangered;
+    font-weight: 500;
+}
+.font-six{
+    color: rgb(71, 67, 67);
+    font-weight: 500;
+    
+}
+.six-p{
+    color: rgb(63, 61, 61);
+    font-size: 18px;
 }
