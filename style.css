@@ -13,11 +13,10 @@ h1{
 .first-part{
     width: 50%;
     padding: 20px;
-    margin-left: 30px;
-    margin-bottom: 60px;
+    margin-left: 40px;
 }
 .first-part img{
-    width: 500px;
+    width: 100%;
 }
 .order-food{
     text-decoration: none;
@@ -49,7 +48,7 @@ h1{
 .second-part img{
     width: 350px;
     margin-left: 70px;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .contact-me{
     text-decoration: none;
@@ -76,7 +75,7 @@ h1{
     margin-bottom: 70px;
 }
 .fourth-part img{
-    width:570px;
+    width:100%;
     
 }
 .font-fourth-part{
